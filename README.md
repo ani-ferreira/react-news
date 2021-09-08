@@ -4,8 +4,8 @@ This app shows news from different places. Uses data from [News Api](https://new
 This repo only runs locally. After trying to deploy it, I've learn that News Api has changed its free service to only allow API calls locally.
 <br />
 
+![screenshot](https://github.com/ani-ferreira/react-news/blob/main/web.png?raw=true)
 
-<img src="url(https://github.com/ani-ferreira/react-news/blob/main/web.png?raw=true)"  width="350">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
