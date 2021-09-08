@@ -1,3 +1,6 @@
+This repo only runs locally. After trying to deploy it, I've learn that [News Api](https://newsapi.org/pricing) has changed its free service to only allow API calls locally.
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
